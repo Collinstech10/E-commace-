@@ -1,0 +1,1 @@
+Sellectionz Varieties multi-page luxury site. Replace assets/main.png with your images. Upload all files to your hosting or GitHub Pages.
